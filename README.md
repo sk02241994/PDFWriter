@@ -1,5 +1,4 @@
 # PDFWriter lib
-___
 
 This is a simple library written in C++ for creating a simple pdf file.
 
