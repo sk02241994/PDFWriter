@@ -1,5 +1,5 @@
 add_library(
-	pdfwriter
+	pdfwriter SHARED
 	src/pdfwritersrc/PDFWriter.cpp
 	src/pdfwriter/PDFWriterStructs.hpp
 	src/pdfwriter/PDFWriter.hpp
